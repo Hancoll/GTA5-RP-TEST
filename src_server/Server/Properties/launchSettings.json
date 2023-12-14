@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Server": {
+      "commandName": "Project"
+    },
+    "Run server": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Gleb\\Desktop\\server-files\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\Gleb\\Desktop\\server-files"
+    }
+  }
+}
